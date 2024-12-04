@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/sportif7/Bento-grid.git)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://sportif7.github.io/Bento-grid/)
 
 ## My process
 
